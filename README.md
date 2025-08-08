@@ -1,13 +1,12 @@
-# Olá, sou a Ana! 👋<br>
+# Olá, sou a Ana! 👋
 
 <p align="center">
   <strong>Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora FullStack Iniciante</strong>
 </p><br>
 
-
 ---
 
-## 🚀 Sobre Mim<br>
+## 🚀 Sobre Mim
 
 
 Sou a Ana Laura Tunussi Pitombeira, mas pode me chamar de Ana. Sou estudante de Análise e Desenvolvimento de Sistemas e estou no início da minha jornada como Desenvolvedora FullStack. Minha paixão é aprender e construir aplicações completas, do frontend ao backend.<br>
@@ -15,7 +14,7 @@ Sou a Ana Laura Tunussi Pitombeira, mas pode me chamar de Ana. Sou estudante de 
 
 ---
 
-## 🛠️ Minhas Habilidades<br>
+## 🛠️ Minhas Habilidades
 
 
 Minhas principais tecnologias e ferramentas incluem:<br>
